@@ -1,0 +1,22 @@
+{
+  "name": "@frogsummon/utils",
+  "version": "0.0.0",
+  "types": "./dist/*.d.ts",
+  "exports": {
+    "./arrays/remove_random_item": {
+      "import": "./dist/arrays/remove_random_item/index.js",
+      "types": "./dist/arrays/remove_random_item/index.d.ts"
+    }
+  },
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint"
+  },
+  "author": "Robin Lloyd",
+  "license": "ISC",
+  "description": "A shareable utility library",
+  "devDependencies": {
+    "eslint": "^9.19.0",
+    "typescript": "^5.7.3"
+  }
+}
