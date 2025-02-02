@@ -1,4 +1,4 @@
-# Frog Summon Utils
+# Frog Summon Utils 🐸
 
 This is a collection of utilities I find useful in building projects I'm working on. No frogs are harmed in the making of these utilities.
 
